@@ -19,3 +19,9 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# for output
+or-serial/output.d
+
+# for macOS
+.DS_Store
