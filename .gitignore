@@ -21,3 +21,4 @@ _autosave-*
 *.csv
 
 .output
+.DS_Store
